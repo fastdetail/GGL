@@ -1,0 +1,202 @@
+/*푸터 모바일용*/
+@media (max-width:768px) {
+  .box_br{
+    display: block;
+  }
+
+  .container{
+    max-width: 300px;
+    min-width: 300px;
+  }
+
+  .header_logo>a>img{
+    width: 15rem;
+  }
+  footer{
+    height: 100%;
+    overflow: hidden;
+  }
+  .foot{
+    width: 300px;
+    margin: auto;
+  }
+  .right_menu{
+    position: relative;
+    font-size: 1.6rem;
+    top: 3rem;
+    left: 3rem;
+  }
+
+  .right_top_menu{
+    position: relative;
+    top: 5rem;
+    left: 1.5rem;
+  }
+  .right_frist_circle{
+    border-radius: 5rem;
+    width: 5rem;
+    height: 5rem;
+    background-color: #5b5b5b;
+  }
+  .right_frist_circle>img{
+    width: 7rem;
+    height: 7rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+  .right_frist_circle>p{
+    font-size: 1.4rem;
+    color: #847571;
+    position: absolute;
+    top: 2.2rem;
+    left: 2.2rem;
+  }
+  .right_second_circle{
+    border-radius: 5rem;
+    width: 5rem;
+    height: 5rem;
+    background-color: #5b5b5b;
+    position: absolute;
+    left: 10.5rem;
+  }
+  .right_second_circle>img{
+    position: absolute;
+    top: 1rem;
+    left: 1.7rem;
+    width: 1.5rem;
+    height: auto;
+  }
+  .right_third_circle{
+    border-radius: 5rem;
+    width: 5rem;
+    height: 5rem;
+    background-color: #5b5b5b;
+    position: absolute;
+    left: 20rem;
+  }
+  .right_third_circle>img{
+    width: 7rem;
+    height: 7rem;
+    position: absolute;
+    left: -1rem;
+    top: -1rem;
+  }
+  .right_third_circle>p{
+    font-size: 1.4rem;
+    color: #847571;
+    position: absolute;
+    top: 1.2rem;
+    left: 1.2rem;
+  }
+  .right_bottom_menu{
+    position: relative;
+    top: 4rem;
+    left: 1.5rem;
+  }
+  .bottom_first_circle{
+    border-radius: 5rem;
+    width: 5rem;
+    height: 5rem;
+    background-color: #5b5b5b;
+  }
+  .bottom_first_circle>img{
+    width: 7rem;
+    height: 7rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+  .bottom_first_circle>p{
+    font-size: 1rem;
+    color: #847571;
+    position: absolute;
+    top: 2.6rem;
+    left: 2rem;
+  }
+  .bottom_second_circle{
+    border-radius: 5rem;
+    width: 5rem;
+    height: 5rem;
+    background-color: #5b5b5b;
+    position: absolute;
+    left: 10.5rem;
+  }
+  .bottom_second_circle>img{
+    width: 7rem;
+    height: 7rem;
+    position: absolute;
+    left: -1rem;
+    top: -1rem;
+  }
+  .bottom_second_circle>p{
+    font-size: 1rem;
+    color: #847571;
+    position: absolute;
+    top: 1.6rem;
+    left: 0.7rem;
+  }
+  .right_four_circle{
+    border-radius: 5rem;
+    width: 5rem;
+    height: 5rem;
+    background-color: #5b5b5b;
+    position: absolute;
+    left: 20rem;
+  }
+  .right_four_circle>img{
+    width: 7rem;
+    height: 7rem;
+    position: absolute;
+    left: -1rem;
+    top: -1rem;
+  }
+  .right_four_circle>p{
+    font-size: 1.4rem;
+    color: #847571;
+    position: absolute;
+    top: 1.2rem;
+    left: 1rem;
+  }
+  .footer_mobile_menu{
+    position: absolute;
+    top: 50%;
+    left: 4rem;
+  }
+  .footer_logo{
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .footer_tell{
+    position: absolute;
+    top: 5rem;
+    left: 0;
+  }
+  .footer_top_tell{
+    position: absolute;
+    top: 5rem;
+    left: 5rem;
+  }
+  .footer_addr{
+    position: absolute;
+    top: 10rem;
+    left: 0;
+  }
+  .footer_middle_addr{
+    position: absolute;
+    top: 10rem;
+    left: 5rem;
+  }
+  .footer_gnb{
+    position: absolute;
+    top: 15rem;
+    left: 0;
+  }
+  .footer_bottom_gnb{
+    position: absolute;
+    top: 15rem;
+    left: 5rem;
+    font-size: 0.8rem;
+  }
+}

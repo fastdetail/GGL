@@ -1,0 +1,64 @@
+@media (max-width:768px) {
+  section {
+    height: 430px;
+  }
+  .section_bg{
+    height: 430px;
+  }
+  .none_br{
+    display: block;
+  }
+  .service_page{
+    top: 20px;
+  }
+  .service_page>h2{
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 30px;
+  }
+  .service_page>p{
+    padding-top: 30px;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 30px;
+  }
+  .eorr_bottom{
+    position: relative;
+    height: 100px;
+    padding-top: 50px;
+  }
+  .homepage_page{
+    width: 110px;
+    height: 100px;
+    position: absolute;
+    top: 28px;
+    left: 20px;
+  }
+  .homepage_page a img{
+    width: 30px;
+    height: 30px;
+  }
+  .homepage_page a p{
+    padding-top: 20px;
+    font-size: 10px;
+    font-weight: bold;
+    color: #2dad60;
+  }
+  .return_page{
+    width: 110px;
+    height: 100px;
+    position: absolute;
+    top: 25px;
+    left: 180px;
+  }
+  .return_page a img{
+    width: 30px;
+    height: 30px;
+  }
+  .return_page a p{
+    padding-top: 23px;
+    font-size: 10px;
+    font-weight: bold;
+    color: #2dad60;
+  }
+}

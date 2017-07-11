@@ -1,0 +1,909 @@
+html, body, header, section, footer, div {
+  width: 100%;
+  height: 100%;
+  font-size: 10px;
+}
+
+/*두번째 섹션부분*/
+
+.container-ex {
+  max-width: 960px;
+  min-width: 960px;
+  margin: 0 auto;
+  height: 700px;
+}
+
+#tabs-3 {
+  height: 0;
+}
+#tabs-1 .image_box .philosophy_tab1_top{
+  height: 470px;
+}
+
+#tabs-1 .image_box .philosophy_tab2_bottom{
+  height: 470px;
+}
+
+
+#tabs-1 .philosophy_title{
+  font-size: 35px;
+  text-align: justify;
+  line-height: 5.25rem;
+  padding: 5rem 0 0 1.5rem;
+  font-weight: 400;
+}
+#tabs-1 .philosophy_subtitle{
+  padding: 8rem 0 0 1.5rem;
+}
+#tabs-1 .philosophy_title strong{
+  color: #fff;
+  font-weight: 600;
+}
+#tabs-1 .philosophy_gnb{
+  font-size: 22px;
+  text-align: justify;
+  line-height: 3.6rem;
+  padding: 3rem 0 0 1.5rem;
+  font-weight: 400;
+}
+
+#tabs-1 .philosophy_lnb{
+  font-size: 24px;
+  text-align: justify;
+  line-height: 3.6rem;
+  padding: 3rem 0 0 1.5rem;
+  font-weight: 400;
+}
+
+#tabs-2 .ggl_box{
+  padding: 0.5rem 0.5rem 0.5rem 0;
+  position: relative;
+  height: 34rem;
+}
+
+#tabs-2 .ggl_box .jewel_box{
+  background-image: url(../images/section1_jewel_a.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#tabs-2 .ggl_box .watch_box{
+  background-image: url(../images/section1_wacth_b.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#tabs-2 .ggl_box .value_box{
+  background-image: url(../images/section1_value_c.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#tabs-2 .ggl_box .edu_box{
+  background-image: url(../images/section1_edu_d.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#tabs-2 .ggl_box .clean_box{
+  background-image: url(../images/section1_clean_e.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#tabs-2 .ggl_box .normol_box{
+  background-image: url(../images/section1_normol_f.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#tabs-2 .ggl_box .relation_box{
+  background-image: url(../images/section1_relation_g.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#tabs-2 .ggl_box .give_box{
+  background-image: url(../images/section1_give_h.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#tabs-2 .ggl_box .small_box{
+  width: 22.5rem;
+  height: 14.5rem;
+}
+#tabs-2 .ggl_box .small_box div{
+  border-top: 1px solid #2dad60;
+  background-color: #fff;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 22.5em;
+  height: 19.5rem;
+}
+#tabs-2 .ggl_box .small_box div h2{
+  padding: 3rem 0 0 1rem;
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+  color: #000;
+}
+#tabs-2 .ggl_box .small_box div h2 strong{
+  font-size: 1.4rem;
+  line-height: 2.1rem;
+}
+#tabs-2 .ggl_box .small_box div h2 .font_color{
+  color: #2dad60;
+  font-weight: bolder;
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+}
+#tabs-2 .ggl_box .small_box div p{
+  padding: 2rem 0 0 1rem;
+  font-size: 1.2rem;
+  line-height: 1.8rem;
+}
+
+#tabs-2 .economic_down_menu{
+  position: relative;
+  top: -5rem;
+}
+#tabs-2 .sction_place{
+  position: relative;
+  top: 2rem;
+}
+
+.tabs3_underline{
+  position: relative;
+  width: 890px;
+}
+
+  #tabs-3 {
+    position: relative;
+    left: -10px;
+    top: 500px;
+  }
+  #tabs .tabs-3{
+    position: relative;
+    left: -10px;
+    top: 420px;
+  }
+
+  #tabs-3 .image_box .philosophy_description p{
+    font-size: 2.4rem;
+    font-weight: bold;
+    padding: 15px 0 0 15px;
+    color: #fff;
+  }
+  #tabs-3 .image_box .philosophy_description .philosophy_description_creat{
+    font-size: 3.2rem;
+    padding: 10px 0 0 15px;
+    font-weight: bolder;
+    color: #fff;
+  }
+  #tabs-3 .image_box .philosophy_description .philosophy_customer{
+    padding: 10px 0 0 15px;
+  }
+  #tabs-3 .image_box .philosophy_description p strong{
+    color: #fff;
+  }
+  #tabs-3 .under_line{
+    position: relative;
+    width: 890px;
+    top: 7rem;
+  }
+  #tabs-3 .beauty-1{
+    position: relative;
+    background-color: #2dad60;
+    bottom: -34.5rem;
+    left: 0;
+    width: 1rem;
+    height: 2rem;
+  }
+  #tabs-3 .philosophy_tab3_bottom{
+    position: relative;
+    top: -25rem;
+    height: 30px;
+  }
+  #tabs-3 .philosophy_core{
+    position: relative;
+    padding: 30px 0 0 10px;
+    width: 800px;
+  }
+  #tabs-3 .philosophy_description h2{
+    position: absolute;
+    top: 36px;
+    font-size: 5rem;
+    font-weight: 700;
+    padding: 0;
+  }
+  #tabs-3 .philosophy_description #vlaue .philosophy_value_core{
+    font-weight: bolder;
+    font-size: 24px;
+  }
+  #tabs-3 .philosophy_description #core_vlaue .philosophy_core_value{
+  font-size: 24px;
+  padding-left: 0 0 0 10px;
+  }
+  #tabs-3 .box_br{
+    display: none;
+  }
+}
+/*공통 부분*/
+
+section{
+  height: 100%;
+}
+
+.section_background{
+  background-color: #f6f5f3;
+}
+
+.tabs-background {
+  background-color: #f6f5f3;
+}
+#tabs ul{
+  padding-top: 3rem;
+  width: 960px;
+}
+#tabs ul li{
+  position: relative;
+}
+#tabs .section_underline{
+  position: relative;
+  width: 88.7rem;
+  top: 2.8rem;
+  top: 6.8rem\9;
+  border: 0.1rem solid #d5d5d5;
+}
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+ /* IE10+ specific styles go here */
+ #tabs .section_underline{
+   position: relative;
+   width: 88.7rem;
+   top: 6.8rem;
+   border: 0.1rem solid #d5d5d5;
+ }
+}
+
+@supports (-ms-ime-align:auto) {
+  #tabs .section_underline{
+    position: relative;
+    width: 88.7rem;
+    top: 6.8rem;
+    border: 0.1rem solid #d5d5d5;
+  }
+}
+
+
+#tabs .toggle {
+  position: absolute;
+  z-index: 10;
+  width: 26%;
+  height: 5rem;
+  left: 67%;
+  transform: translateX(-50%);
+  margin-left: -141px;
+  top: -1rem;
+  background-image: url(../images/graytab.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-sizing: border-box;
+  font-size: 1.8rem;
+  color: #fff;
+  text-align: center;
+  padding-top: 1.5rem;
+  outline: 0;
+}
+#tabs ul li a strong{
+  position: absolute;
+  left: 47%;
+  transform: translateX(-50%);
+}
+#tabs .tabs-menu li a:hover {
+  background-image: url(../images/greentab.png);
+  background-repeat: no-repeat;
+  z-index: 20;
+  color: #fff;
+}
+
+#tabs .tabs-1 a{
+  transform: translateX(-200%);
+}
+
+#tabs .tabs-2 a{
+  transform: translateX(-109%);
+}
+
+#tabs .tabs-4 a{
+  transform: translateX(-17.5%);
+}
+#tabs .tabs-8 a{
+  transform: translateX(74%);
+}
+
+#tabs .tabs-menu .ui-state-active a {
+  background-image: url(../images/greentab.png);
+  background-repeat: no-repeat;
+  z-index: 20;
+  color: #fff;
+}
+#tabs-1,
+#tabs-2,
+#tabs-3,
+#tabs-4,
+#tabs-8  {
+  padding-top: 0;
+  position: relative;
+  height: 55rem;
+}
+#tabs-1 .beauty,
+#tabs-2 .beauty,
+#tabs-3 .beauty,
+#tabs-4 .beauty,
+#tabs-8 .beauty {
+  position: absolute;
+  background-color: #2dad60;
+  top: 7.5rem;
+  left: 1rem;
+  width: 1rem;
+  height: 2rem;
+}
+
+#tabs-3 .beauty {
+  position: absolute;
+  background-color: #2dad60;
+  top: 6.3rem;
+  left: 1rem;
+  width: 1rem;
+  height: 2rem;
+}
+
+/*고친부분*/
+#tabs-2 h2,
+#tabs-1 .title {
+  font-size: 35px;
+  font-weight: bold;
+  color: #000000;
+  padding: 7rem 0 0 1.5rem;
+}
+
+
+#tabs-3 h2{
+  font-size: 35px;
+  font-weight: bold;
+  color: #000000;
+  padding: 6rem 0 0 1.5rem;
+}
+#tabs-4 h2 {
+  font-size: 35px;
+  font-weight: bold;
+  color: #000000;
+  padding: 2rem 0 0 5.5rem;
+}
+#tabs-4 p {
+  font-size: 14px;
+  color: #82817f;
+  padding: 1rem 0 0 5.5rem;
+}
+
+#tabs-8 h2 {
+  font-size: 35px;
+  font-weight: bold;
+  color: #000000;
+  padding: 7rem 0 0 1.5rem;
+}
+
+#tabs-2 p,
+#tabs-1 .sub-title,
+#tabs-3 p{
+  font-size: 14px;
+  color: #82817f;
+  padding: 1rem 0 0 4.5rem;
+}
+
+#tabs-8 p{
+  font-size: 14px;
+  color: #82817f;
+  padding: 1rem 0 0 2rem;
+}
+/**/
+#tabs-2 .image_box,
+#tabs-1 .image_box,
+#tabs-4 .image_box,
+#tabs-8 .image_box {
+  position: relative;
+  left: 0;
+  border-top: 5px solid #2dad60;
+  background-color: #e9e9e9;
+  margin-top: 3rem;
+  width: 100%;
+}
+
+#tabs-8 .descript>h2{
+  font-size: 20px;
+}
+
+#tabs-8 .descript>p {
+  font-size: 14px;
+  color: #000000;
+}
+
+#tabs-8 .descript>strong {
+  font-size: 12px;
+}
+
+.display_br {
+  display: none;
+}
+
+.googlemap {
+  width: 100%;
+  height: 100%;
+}
+
+.descript {
+  background-color: #ffffff;
+  border-right: 0.01rem solid #ececec;
+  border-bottom: 0.01rem solid #ececec;
+}
+
+#tabs-board .board-descript .none_display .board-rd{
+  height: 50%;
+}
+
+
+/*두번째 2 섹션부분*/
+
+.philosophy_img {
+  background-color: #000;
+}
+
+.philosophy_description strong {
+  color: #2dad60;
+}
+
+
+/*tab-4*/
+
+#tabs-4 .beauty,
+#tabs-4 .beauty-1,
+#tabs-4 .beauty-2 {
+  position: absolute;
+  background-color: #2dad60;
+  top: 7.2rem;
+  left: 10px;
+  width: 1rem;
+  height: 2rem;
+}
+
+/*고친 부분*/
+
+/*#tabs-4{
+  width: 960px;
+}*/
+#tabs-4 h2 {
+  font-size: 35px;
+  font-weight: bold;
+  color: #000000;
+  padding: 7rem 0 0 2.5rem;
+}
+#tabs-4 p {
+  font-size: 14px;
+  color: #82817f;
+  padding: 1rem 0 0 5.5rem;
+}
+
+#tabs-4 .beauty-1 {
+  top: 66rem;
+}
+#tabs-4 .beauty-2 {
+  top: 104rem;
+  left: 0px;
+}
+/**/
+
+#tabs-4 .image_box{
+  position: relative;
+  left: 10px;
+  border-top: 5px solid #2dad60;
+  background-color: #e9e9e9;
+  margin-top: 3rem;
+  width: 940px;
+}
+
+#tabs-4 .image_box_1,
+#tabs-4 .image_box_2 {
+  position: relative;
+  left: 10px;
+  border-top: 5px solid #2dad60;
+  background-color: #fff;
+  margin-top: 3rem;
+  width: 940px;
+}
+
+.underline_1,
+.underline_2 {
+  position: relative;
+  z-index: 99;
+  width: 900px;
+  height: 1px;
+  left: 20px;
+  background-color: #d5d5d5;
+}
+
+.underline_1{
+  top: 30px;
+  left: 40px;
+}
+
+.underline_2{
+  top: 30px;
+  left: 0;
+}
+
+
+#tabs-4 .title_4,
+#tabs-4 .title_5 {
+  padding-top: 5rem;
+}
+
+/*고친 부분*/
+#tabs-4 .title_5,
+#tabs-4 .desc_5{
+  padding-left: 2rem;
+}
+#tabs-4 .desc_5{
+  color: #8b8a88;
+}
+#tabs-people .ggl-people-list .people-list li a p{
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 90px;
+  padding-left: 0;
+  text-align: center;
+}
+/**/
+#tabs-4 .image_box_1{
+  height: 21.7rem;
+}
+#tabs-people .people-list li{
+  position: relative;
+  top: 15px;
+}
+#tabs-people .people-list {
+  height: 16.4rem;
+  width: 940px;
+  background-image: url(../images/people-list.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#tabs-people .ggl-people-list {
+  height: 16.4rem;
+  width: 940px;
+}
+
+#tabs-people .descript {
+  height: 105rem;
+  background-color: #ffffff;
+}
+/*고친부분*/
+#tabs-4 #tabs-people li{
+  position: relative;
+  top: 15px;
+  padding: 5px 0;
+  text-align: center;
+}
+#tabs-4 #tabs-people li a{
+  outline: none;
+}
+/**/
+
+/*고친부분*/
+#tabs-people .people{
+  width: 100px;
+  height: auto;
+  box-shadow: 3px 3px 5px 2px rgba(0, 0, 0, 0.5);
+}
+/**/
+#tabs-4 ul {
+  padding: 0;
+}
+
+#tabs-people .people-img{
+  margin-top: .3rem;
+}
+
+#tabs-people .people-img img{
+  width: 20rem;
+  height: auto;
+  box-shadow: 3px 3px 5px 2px rgba(0, 0, 0, 0.5);
+}
+#tabs-people .people-img .main_name{
+  position: absolute;
+  top: 210px;
+  padding: 2.5rem 0;
+  text-align: center;
+  width: 200px;
+}
+#tabs-people .people-detail{
+  position: relative;
+  left: -10px;
+}
+#tabs-4 #tabs-people .people-detail h2{
+  padding: 10px 0 0 10px;
+}
+#tabs-people .people-detail .sub_lnb{
+  padding: 10px 0 0 10px;
+  position: absolute;
+  top: 5px;
+  left: 180px;
+}
+#tabs-people .descript {
+  position: relative;
+  height: 820px;
+}
+
+#tabs-people .descript h2 {
+  font-size: 24px;
+  font-weight: bold;
+  padding: 10px 0 0 10px;
+}
+
+#tabs-people .sub-title {
+  font-size: 14px;
+  padding: 10px 0 0 12px;
+  color: #999999;
+}
+
+#tabs-people p {
+  font-size: 14px;
+  color: #000000;
+  word-wrap: -35;
+}
+
+#tabs-people .sub_line_1,
+#tabs-people .sub_line_2,
+#tabs-people .sub_line_3 {
+  position: absolute;
+  width: 620px;
+  top: 100px;
+  right: 10px;
+}
+
+#tabs-people .sub_line_2{
+  top: 350px;
+}
+
+#tabs-people .sub_line_3{
+  top: 540px;
+}
+
+#tabs-people .people-record,
+#tabs-people .people-books,
+#tabs-people .people-rd {
+  position: absolute;
+}
+
+#tabs-people .people-record {
+  top: 100px;
+  left: 300px;
+  width: 600px;
+}
+
+#tabs-people .people-record .col-9 p{
+  position: absolute;
+  left: 145px;
+}
+
+#tabs-people .people-books {
+  top: 350px;
+  left: 300px;
+  width: 600px;
+}
+#tabs-people .people-books .col-9 p{
+  position: absolute;
+  left: 145px;
+}
+
+#tabs-people .people-rd {
+  left: 300px;
+  top: 540px;
+  width: 600px;
+}
+#tabs-people .people-rd .col-9{
+  left: 145px;
+  top: 820px;
+}
+
+#tabs-people .people-rd .col-9 p{
+  position: absolute;
+  left: 145px;
+  width: 340px;
+}
+
+#tabs-people .people-rd .col-9 .press{
+  text-indent: -6px;
+  padding-left: 61px;
+}
+
+#tabs-people .people-rd strong{
+  font-weight: bold;
+  margin-left: 8px;
+}
+#tabs-people .people-rd em{
+  font-weight: bold;
+  font-style: normal;
+  margin-left: 3px;
+}
+
+#tabs-people .people-rd .main_leader p{
+  position: absolute;
+  left: 145px;
+  width: 430px;
+  height: 220px;
+  overflow-y: scroll;
+}
+
+#tabs-4 .image_box{
+  background-image: url(../images/org_process.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/*BOARD*/
+#tabs-4 .image_box_2{
+  height: 50rem;
+  left: 0;
+}
+#tabs-board .board-list {
+  width: 940px;
+  height: 16.4rem;
+  background-image: url(../images/people-list.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+/*고친부분*/
+#tabs-board .ggl-board-list{
+  height: 16.4rem;
+}
+/**/
+#tabs-board .descript {
+  height: 38rem;
+  background-color: #ffffff;
+}
+#tabs-4 #tabs-board li a p{
+  position: absolute;
+  top: 95px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 5px 0;
+  text-align: center;
+}
+
+#tabs-4 #tabs-board li.ui-state-active a{
+  outline: 0;
+}
+/*고친부분*/
+#tabs-board .boards{
+  width: 100px;
+  height: auto;
+  box-shadow: 3px 3px 5px 2px rgba(0, 0, 0, 0.5);
+}
+/**/
+
+#tabs-board .board-img img{
+  position: relative;
+  left: 0;
+  width: 17rem;
+  height: auto;
+  box-shadow: 3px 3px 5px 2px rgba(0, 0, 0, 0.5);
+}
+#tabs-board .board-descript .board-top .board-img .named{
+  position: relative;
+  top: -50px;
+  padding-top: 2rem;
+  left: 15px;
+}
+#tabs-board .board-descript .main_buname{
+  position: relative;
+  top: -50px;
+  padding-top: 2rem;
+  left: 6px;
+}
+#tabs-board .board-detail{
+  margin-top: 3rem;
+}
+
+#tabs-board .descript h2 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+#tabs-board .sub-title {
+  font-size: 14px;
+  margin-top: -10px;
+  margin-left: 3px;
+  color: #999999;
+}
+
+#tabs-board p {
+  font-size: 14px;
+  color: #000000;
+  word-wrap: -35;
+}
+
+#tabs-board .underline_4 {
+  position: absolute;
+  width: 650px;
+  top: 150px;
+  right: 10px;
+}
+
+#tabs-board .underline_5{
+  position: absolute;
+  width: 650px;
+  top: 150px;
+  right: 10px;
+}
+
+#tabs-board .board-attain {
+  position: absolute;
+  left: 300px;
+  top: 30px;
+  width: 600px;
+}
+
+#tabs-board .board-rd {
+  position: absolute;
+  left: 300px;
+  top: 160px;
+  width: 600px;
+}
+.none_display{
+  display: block;
+}
+
+.mobile_desc {
+  display: none;
+}
+#tabs-8 .descript .address{
+  text-indent: -40px;
+  padding-left: 60px;
+}
+
+/*배경추가*/
+#tabs-1 .title {
+  font-size: 35px;
+}
+
+.make_space {
+  margin-top: 50px;
+}
+
+#tabs-1 .make_space_2 {
+  margin-top: 30px;
+}
+
+#tabs-1 .tabsbg{
+  position: absolute;
+  top: 145px;
+  left: 10px;
+}
+
+#tabs-1 .tabsbg img{
+  width: 940px;
+}
+
+#tabs-1 .image_box{
+  top: 5px;
+}
+.slideContainerbg{
+  display: none;
+}

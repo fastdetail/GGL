@@ -1,0 +1,765 @@
+@media (max-width:768px) {
+
+  .display_br{
+    display: inline-block;
+  }
+
+  #tabs ul {
+    width: 300px;
+  }
+
+  #tabs .toggle {
+    width: 25%;
+    height: 3rem;
+    left: 100%;
+    transform: translateX(-50%);
+    background-size: 70px 25px;
+    top: 0;
+    padding-top: 1rem;
+    font-size: 1rem;
+  }
+  #tabs ul li a strong{
+    width: 50px;
+    left: 47%;
+    transform: translateX(-50%);
+  }
+  .section_underline_1,
+  .section_underline_2 {
+    display: none;
+  }
+  .section_underline{
+    width: 280px;
+    top: 35px;
+  }
+
+  #tabs-5 h2,
+  #tabs-6 h2,
+  #tabs-7 h2,
+  #tabs-8 h2 {
+    padding: 3rem 0 0 2rem;
+    font-size: 24px;
+  }
+  #tabs-5 .programedu{
+    position: absolute;
+    top: 300px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #000000;
+    padding: 8.5rem 0 0 1.5rem;
+  }
+
+  #tabs-7 .beauty,
+  #tabs-8 .beauty{
+    top: 4.2rem;
+  }
+
+  #tabs-5 .beauty,
+  #tabs-6 .beauty{
+    top: 4.2rem;
+  }
+
+  #tabs-6 .beauty-1 {
+    top: 26.6rem;
+  }
+
+  #tabs-6 .beauty-2 {
+    top: 50rem;
+  }
+
+  #tabs-5 p,
+  #tabs-6 p,
+  #tabs-7 p,
+  #tabs-8 p {
+    font-size: 12px;
+    line-height: 18px;
+  }
+
+  #tabs-6 p,
+  #tabs-8 p {
+    padding: 1rem 0 0 1.5rem;
+  }
+
+  #tabs-5 .image_box,
+  #tabs-6 .image_box_1,
+  #tabs-6 .image_box_2,
+  #tabs-6 .image_box_3,
+  #tabs-7 .image_box_1,
+  #tabs-7 .image_box_2,
+  #tabs-7 .image_box_3,
+  #tabs-8 .image_box {
+    border-top: 2px solid #2dad60;
+    background-color: #e9e9e9;
+    margin-top: 3rem;
+    height: 30rem;
+  }
+
+  #tabs-6 .image_box_1,
+  #tabs-6 .image_box_2,
+  #tabs-6 .image_box_3 {
+    margin-bottom: 2rem;
+  }
+
+  #tabs-7 .image_box_1,
+  #tabs-7 .image_box_2,
+  #tabs-7 .image_box_3{
+    margin-top: 2rem;
+  }
+
+  #tabs-6 .descript p {
+    font-size: 14px;
+    line-height: 21px;
+    padding-left: 5px;
+  }
+
+  #tabs-6 .descript strong {
+    font-size: 16px;
+    font-weight: bold;
+  }
+
+  .none_br {
+    display: none;
+  }
+
+  #tabs-8 .descript>h2{
+    font-size: 16px;
+    padding: 1rem 0 0 1rem;
+  }
+
+  #tabs-8 .descript>p {
+    font-size: 12px;
+    word-spacing: -25;
+  }
+
+  #tabs-8 .descript>strong {
+    font-size: 10px;
+  }
+  /*고친 부분*/
+  #tabs-5 .eduwell_img{
+   background-image: url(../images/section6_eduwell_a1.png);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: 280px auto;
+ }
+  #tabs-5 .eduwell_img{
+    height: 160px;
+  }
+ /**/
+ #tabs-6 .section_underline_1,
+ #tabs-6 .section_underline_2.
+ #tabs-6 .section_underline_3{
+   display: none;
+ }
+
+ /*고친부분*/
+ #tabs-6 .Approach_img{
+   display: none;
+ }
+ #tabs-6 .Approach_a{
+   position: relative;
+   top: -10px;
+   left: -10px;
+   display: block;
+   width: 280px;
+   height: auto;
+ }
+ #tabs-6 .image_box_3{
+   height: 155px;
+ }
+ #tabs-6 .descript{
+   height: 300px;
+ }
+ #tabs-6 .image_box_1{
+   background-image: url(../images/section6_consulting_a.jpg);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: 280px auto;
+ }
+ #tabs-6 .image_box_1{
+   height: 150px;
+ }
+ #tabs-6 .image_box_2{
+   background-image: url(../images/section6_consulting_b.jpg);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: 280px auto;
+ }
+ #tabs-6 .image_box_2{
+   height: 160px;
+ }
+
+ #tabs-6 .image_box_3{
+   background-image: url(../images/section6_consulting_c.jpg);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: 280px auto;
+ }
+
+ #tabs-6 .image_box_3{
+   height: 160px;
+ }
+
+ #tabs-7 .image_box_1{
+   background-image: url(../images/section7_educonsulting_a.jpg);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: 280px auto;
+ }
+  #tabs-7 .image_box_1{
+    height: 144px;
+  }
+ #tabs-7 .image_box_2{
+   background-image: url(../images/section7_educonsulting_b.jpg);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: 280px auto;
+ }
+ #tabs-7 .image_box_2{
+   height: 150px;
+ }
+ #tabs-7 .image_box_3{
+   background-image: url(../images/section7_educonsulting_c.jpg);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: 280px auto;
+ }
+ #tabs-7 .image_box_3{
+   height: 148px;
+ }
+ /**/
+ #tabs-5 .beauty_2{
+   position: absolute;
+   background-color: #2dad60;
+   top: 9.3rem;
+   width: 1rem;
+   height: 2rem;
+ }
+
+ #tabs-5 .image_box_1 .descript h2{
+   padding-top: 60px;
+   font-size: 24px;
+ }
+
+ #tabs-5 p{
+   font-size: 12px;
+   color: #82817f;
+   padding: 1rem 0 0 2rem;
+ }
+
+ #tabs-5 .image_box_1{
+   border-top: 5px solid #2dad60;
+   background-color: #e9e9e9;
+   margin-top: 2rem;
+   height: 31.8rem;
+ }
+
+ #tabs-5 .image_box_3 {
+   border-top: 5px solid #2dad60;
+   background-color: #e9e9e9;
+   margin-top: 2rem;
+   height: 35rem;
+ }
+
+ .descript {
+   background-color: #ffffff;
+ }
+ /*시작*/
+ #tabs .check_chart {
+   width: 280px;
+   height: 1px;
+ }
+
+ #tabs-5 .image_box_2{
+   border-top: 2px solid #2dad60;
+   background-color: #fff;
+   margin-top: 3rem;
+   height: 34rem;
+ }
+
+
+ #tabs-5 .image_box_3 {
+   border-top: 2px solid #2dad60;
+   background-color: #e9e9e9;
+   margin-top: 2rem;
+   height: 35rem;
+ }
+
+ #section_height {
+   overflow: hidden;
+ }
+
+ #tabs-5 .beauty_2 {
+   top: 38.6rem;
+ }
+
+ #tabs-5 .beauty_3 {
+   top: 9rem;
+ }
+
+ #tabs-5 .image_box_1{
+   height: 320px;
+   margin-bottom: 30px;
+ }
+
+ #tabs-5 .photo_box {
+   height: 150px;
+ }
+
+ #tabs-5 .image_box_1 .descript h2 {
+   font-size: 18px;
+   padding-top: 15px;
+   padding-left: 30px;
+ }
+
+ #tabs .descript .fix_strong {
+   margin-left: 10px;
+ }
+
+
+ #tabs .beauty_choice {
+   position: absolute;
+   width: 0;
+   height: 0;
+   border-top: 8px solid transparent;
+   border-left: 12px solid #32a55e;
+   border-bottom: 8px solid transparent;
+   top: 105px;
+   right: 123px;
+ }
+
+ #tabs .check_chart>p {
+   position: absolute;
+   right: 0;
+   color: #000000;
+   top: 95px;
+   font-size: 12px;
+ }
+
+ .program_top div{
+   width: 100px;
+   display: none;
+ }
+
+ #table {
+   width: 300px;
+   display: none;
+ }
+
+ .margin_box {
+   margin-top: 5px;
+   margin-bottom: 50px;
+   width: 280px;
+   height: 460px;
+ }
+
+ .accordia {
+   margin-top: 10px;
+ }
+
+ .leadership {
+   margin-top: -5px;
+ }
+ .sub_program{
+   position: relative;
+   padding-left: 2.5rem;
+ }
+ .accordia .sub_program {
+  height: 0;
+  overflow: hidden;
+  transition: .5 ease-in-out;
+ }
+ .show_me .sub_program {
+   height: auto;
+   transition: .5 ease-in-out;
+   margin-left: 20px;
+ }
+
+ .show_me .main_title {
+   width: 280px;
+ }
+ #tabs-5 .main_title h2{
+   color: #fff;
+ }
+ .leader_title {
+   background-color: #f6f5f3;
+   background-image: url(../images/mobile_leadera.png);
+   background-repeat: no-repeat;
+   background-size: 280px 40px;
+ }
+ .negotiate_title {
+   background-color: #f6f5f3;
+   background-image: url(../images/mobile_negotiatea.png);
+   background-repeat: no-repeat;
+   background-size:  280px 40px;
+ }
+ .communication_title {
+   background-color: #f6f5f3;
+   background-image: url(../images/mobile_communicationa.png);
+   background-repeat: no-repeat;
+   background-size:  280px 40px;
+ }
+ .marketing_title {
+   background-color: #f6f5f3;
+   background-image: url(../images/mobile_marketinga.png);
+   background-repeat: no-repeat;
+   background-size:  280px 40px;
+ }
+ .HR_title {
+   background-color: #f6f5f3;
+   background-image: url(../images/mobile_HRa.png);
+   background-repeat: no-repeat;
+   background-size:  280px 40px;
+ }
+ .management_title {
+   background-color: #f6f5f3;
+   background-image: url(../images/mobile_managementa.png);
+   background-repeat: no-repeat;
+   background-size:  280px 40px;
+ }
+ .creative_title {
+   background-color: #f6f5f3;
+   background-image: url(../images/mobile_creativea.png);
+   background-repeat: no-repeat;
+   background-size:  280px 40px;
+ }
+
+ #tabs-5 .accordia h2 {
+   font-size: 18px;
+   padding: 1rem 0 1rem 4.5rem;
+ }
+
+ #tabs-5 .show_me p {
+   font-size: 14px;
+   color: #000000;
+ }
+
+ .program_top {
+   height: 0;
+ }
+
+ .program-list li {
+   text-align: left;
+   border: 0;
+ }
+
+ .program-list li a {
+   display: inline-block;
+   margin-top: 0px;
+   outline: 0;
+ }
+
+ li.program-1,
+ li.program-2,
+ li.program-3,
+ li.program-4,
+ li.program-5,
+ li.program-6,
+ li.program-7,
+ li.program-8,
+ li.program-9 {
+   width: 0;
+   height: 0;
+ }
+
+ .none_br {
+   display: none;
+ }
+
+ #tabs-program .programbox-1{
+   position: absolute;
+   display: inline-block;
+   top: 10px;
+   left: -85px;
+   padding-top: 0px;
+   height: 34px;
+   width: 210px;
+   box-sizing: content-box;
+   padding-left: 40px;
+   margin-left: -48px;
+   z-index: 9996;
+   color: #000;
+   font-size: 14px;
+ }
+ #tabs-program .programbox-2{
+   position: absolute;
+   display: inline-block;
+   top: 182px;
+   left: -408px;
+   height: 34px;
+   width: 210px;
+   box-sizing: content-box;
+   padding-left: 40px;
+   margin-left: -48px;
+   color: #000;
+   font-size: 14px;
+ }
+ #tabs-program .programbox-3{
+   position: absolute;
+   display: inline-block;
+   top: 123px;
+   left: -87px;
+   padding-top: 0px;
+   height: 34px;
+   width: 210px;
+   box-sizing: content-box;
+   padding-left: 40px;
+   margin-left: -48px;
+   color: #000;
+   font-size: 14px;
+ }
+ #tabs-program .programbox-4{
+   position: absolute;
+   display: inline-block;
+   top: 224px;
+   left: -242px;
+   padding-top: 0px;
+   height: 34px;
+   width: 210px;
+   box-sizing: content-box;
+   padding-left: 40px;
+   margin-left: -48px;
+   color: #000;
+   font-size: 14px;
+ }
+ #tabs-program .programbox-5{
+   position: absolute;
+   display: inline-block;
+   top: 258px;
+   left: -242px;
+   padding-top: 0px;
+   height: 34px;
+   width: 210px;
+   box-sizing: content-box;
+   padding-left: 38px;
+   margin-left: -48px;
+   color: #000;
+   font-size: 14px;
+ }
+ #tabs-program .programbox-6{
+   position: absolute;
+   display: inline-block;
+   top: 410px;
+   left: -715px;
+   padding-top: 0px;
+   height: 34px;
+   width: 210px;
+   box-sizing: content-box;
+   padding-left: 40px;
+   margin-left: -48px;
+   color: #000;
+   font-size: 14px;
+ }
+ #tabs-program .programbox-7{
+   position: absolute;
+   display: inline-block;
+   top: 328px;
+   left: -87px;
+   padding-top: 0px;
+   height: 34px;
+   width: 210px;
+   box-sizing: content-box;
+   padding-left: 40px;
+   margin-left: -48px;
+   color: #000;
+   font-size: 14px;
+ }
+ #tabs-program .programbox-8{
+   position: absolute;
+   display: inline-block;
+   top: 312px;
+   left: -87px;
+   padding-top: 0px;
+   height: 34px;
+   width: 210px;
+   box-sizing: content-box;
+   padding-left: 40px;
+   margin-left: -48px;
+   color: #000;
+   font-size: 14px;
+ }
+ #tabs-program .programbox-9{
+   position: absolute;
+   display: inline-block;
+   top: 450px;
+   left: -406px;
+   padding-top: 0px;
+   height: 34px;
+   width: 180px;
+   box-sizing: content-box;
+   color: #000;
+   font-size: 14px;
+ }
+ #tabs-program .programbox-10{
+   position: absolute;
+   display: inline-block;
+   top: 755px;
+   left: -713px;
+   padding-top: 0px;
+   height: 34px;
+   width: 210px;
+   box-sizing: content-box;
+   padding-left: 40px;
+   margin-left: -48px;
+   color: #000;
+   font-size: 14px;
+ }
+ #tabs-program .temporarily p {
+   font-size: 24px;
+   padding: 1rem 0 0 0;
+ }
+
+ #tabs-program .ui-state-active .toggle-program {
+   background-color: #ffffff;
+   color: #000000;
+ }
+
+ #tabs-program .program-list li:hover {
+   background-color: #2dad60;
+   color: #fff;
+ }
+ #tabs-program .program-list li:hover a {
+   background-color: #2dad60;
+   color: #fff;
+ }
+ #tabs-program-1 img,
+ #tabs-program-2 img,
+ #tabs-program-3 img,
+ #tabs-program-4 img,
+ #tabs-program-5 img,
+ #tabs-program-6 img,
+ #tabs-program-7 img,
+ #tabs-program-8 img,
+ #tabs-program-9 img,
+ #tabs-program-10 img  {
+   width: 280px;
+   height: auto;
+ }
+ #tabs #tabs-5 #tabs-program ul li a:hover{
+   background-color: #2dad60;
+   color: #fff;
+ }
+ #tabs #tabs-5 #tabs-program .program-list a:hover{
+   background-color: #fff;
+   color: #000;
+ }
+
+ #tabs-5 .image_box_3{
+   position: relative;
+   top: 5rem;
+ }
+
+ .first_edu{
+   position: absolute;
+   top: 35.5rem;
+ }
+
+ .second_edu{
+   top: 4rem;
+ }
+
+ .program_edu{
+   display: none;
+ }
+ .triangle_1 {
+  position: absolute;
+  top: 11px;
+  left: 26px;
+  width: 0;
+  height: 0;
+  border-top: 8px solid transparent;
+  border-left: 12px solid #6dbb61;
+  border-bottom: 8px solid transparent;
+}
+  .triangle_2 {
+   position: absolute;
+   top: 105px;
+   left: 26px;
+   width: 0;
+   height: 0;
+   border-top: 8px solid transparent;
+   border-left: 12px solid #6dbb61;
+   border-bottom: 8px solid transparent;
+ }
+ .triangle_3 {
+  position: absolute;
+  top: 175Px;
+  left: 26px;
+  width: 0;
+  height: 0;
+  border-top: 8px solid transparent;
+  border-left: 12px solid #6dbb61;
+  border-bottom: 8px solid transparent;
+}
+  .triangle_4 {
+   position: absolute;
+   top: 15px;
+   left: 26px;
+   width: 0;
+   height: 0;
+   border-top: 8px solid transparent;
+   border-left: 12px solid #32a55e;
+   border-bottom: 8px solid transparent;
+}
+  .triangle_5 {
+   position: absolute;
+   top: 50px;
+   left: 26px;
+   width: 0;
+   height: 0;
+   border-top: 8px solid transparent;
+   border-left: 12px solid #32a55e;
+   border-bottom: 8px solid transparent;
+}
+  .triangle_6 {
+   position: absolute;
+   top: 48px;
+   left: 26px;
+   width: 0;
+   height: 0;
+   border-top: 8px solid transparent;
+   border-left: 12px solid #006934;
+   border-bottom: 8px solid transparent;
+}
+  .triangle_7 {
+   position: absolute;
+   top: 15px;
+   left: 26px;
+   width: 0;
+   height: 0;
+   border-top: 8px solid transparent;
+   border-left: 12px solid #34395c;
+   border-bottom: 8px solid transparent;
+}
+  .triangle_8 {
+   position: absolute;
+   top: 160px;
+   left: 26px;
+   width: 0;
+   height: 0;
+   border-top: 8px solid transparent;
+   border-left: 12px solid #34395c;
+   border-bottom: 8px solid transparent;
+}
+  .triangle_9 {
+   position: absolute;
+   top: 15px;
+   left: 26px;
+   width: 0;
+   height: 0;
+   border-top: 8px solid transparent;
+   border-left: 12px solid #595757;
+   border-bottom: 8px solid transparent;
+}
+  .triangle_10 {
+   position: absolute;
+   top: 86px;
+   left: 26px;
+   width: 0;
+   height: 0;
+   border-top: 8px solid transparent;
+   border-left: 12px solid #595757;
+   border-bottom: 8px solid transparent;
+}
+    #tabs ul li .table_border{
+    width: 92px;
+  }
+}

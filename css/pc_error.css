@@ -1,0 +1,63 @@
+html, body, header, section, footer, div {
+  width: 100%;
+  height: 100%;
+  font-size: 10px;
+}
+
+/*에러 영역*/
+
+  section {
+    height: 900px;
+  }
+  .section_bg{
+    background-color: #f6f5f3;
+    height: 900px;
+  }
+  .service_page{
+    position: relative;
+    top: 260px;
+    text-align: center;
+    color: #272727;
+  }
+  .service_page>h2{
+    font-size: 35px;
+    font-weight: bold;
+  }
+  .service_page>p{
+    padding-top: 60px;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 30px;
+  }
+  .eorror_bottom{
+    position: relative;
+    height: 100px;
+    padding-top: 100px;
+  }
+  .homepage_page{
+    width: 180px;
+    height: 100px;
+    position: absolute;
+    left: 245px;
+  }
+  .homepage_page>a>p{
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #2dad60;
+  }
+  .return_page{
+    width: 180px;
+    height: 100px;
+    position: absolute;
+    left: 580px;
+  }
+  .return_page>a>p{
+    padding-top: 23px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #2dad60;
+  }
+  .none_br{
+    display: none;
+  }

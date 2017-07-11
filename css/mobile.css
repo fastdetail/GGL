@@ -1,0 +1,79 @@
+/*모바일*/
+
+
+
+@media (min-width:200px) and (max-width:768px) {
+  #mobile_close{
+    position: absolute;
+    top: 2rem;
+    right: 4rem;
+    width: 5%;
+  }
+
+  #mobile_home {
+    position: absolute;
+    z-index: 999;
+    top: 10%;
+    font-size: 18px;
+    color: #ffffff;
+  }
+
+  #mobile_shortcut {
+    position: relative;
+    z-index: 999;
+    font-size: 18px;
+    top: 15%;
+    color: #ffffff;
+  }
+
+  #mobile_shortcut li:hover {
+    text-decoration: underline;
+  }
+
+  #mobile_shortcut li {
+    margin: 15px 0;
+  }
+
+  #mobile_detail{
+    position: relative;
+    z-index: 999;
+    top: 25%;
+    font-size: 14px;
+    color: #dddcda;
+  }
+
+    #mobile_detail li {
+    margin: 10px 0;
+  }
+
+  #mobile_detail img {
+    width: 150px;
+  }
+
+  header{
+    overflow: hidden;
+  }
+  .header_logo nav ul{
+    display: none;
+  }
+  .header_logo nav{
+    width: 50%;
+    position: relative;
+    left: 50%;
+  }
+  #mobile_bar{
+    display: inline-block;
+    position: absolute;
+    top: 3rem;
+    right: 1rem;
+    width: 10%;
+  }
+  #mobile_bar>a>img{
+    width: 100%;
+  }
+}
+/*모바일*/
+
+#mobile{
+  background-color: #272727;
+}
